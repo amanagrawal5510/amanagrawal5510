@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium" alt="Medium"  width="100" height="30"></a> -->
 
 <!-- <a href="" title="Codeforces">
-<img src="https://img.shields.io/badge/-Codeforces-black?style=flat-square&logo=codeforces" alt="codeforces"  width="100" height="30"></a>
+<img src="https://img.shields.io/badge/-Codeforces-black?style=flat-square&logo=codeforces" alt="codeforces"  width="100" height="30"></a> -->
 
 <!-- <a href="" title="Codechef">
 <img src="https://img.shields.io/badge/-CodeChef-black?style=flat-square&logo=codechef" alt="codechef" width="100" height="30"></a> -->
@@ -29,7 +29,7 @@
 
 <p>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="350"/>
-Hi 🙋🏻‍♂️, I am Aman Agrawal, a Roboteer 🚀 from India, currently, I'm a 🎓 Electronics and communication and engineering , pre-final year at <a href="https://www.iitism.ac.in/">IIT (ISM) Dhanbad</a>, and <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" > Roboteer at <a href="https://roboism.tech/">Robotics and AI Club </a>. I love to solve real world problems to make our day to day life easier by creating utility tools 🔨.
+Hi 🙋🏻‍♂️, I am Aman Agrawal, a Roboteer 🚀 from India, currently.</br> I'm a 🎓 Electronics and communication and engineering , pre-final year at <a href="https://www.iitism.ac.in/">IIT (ISM) Dhanbad.</a> </br> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" > Roboteer at <a href="https://roboism.tech/">Robotics and AI Club </a>. </br> I love to solve real world problems to make our day to day life easier by creating utility tools 🔨.
 </p>
 
 ---
