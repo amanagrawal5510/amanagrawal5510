@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/aman-agrawal-281852192/" title="LinkedIn">
 <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn"  width="100" height="30"></a>
 
+<a href="https://www.facebook.com/profile.php?id=100006860341956" title="FaceBook">
+<img src="https://img.shields.io/badge/-Facebook-black?style=flat-square&logo=facebook" alt="FaceBook"  width="100" height="30"></a>
+
 <!-- <a href="" title="Medium">
 <img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium" alt="Medium"  width="100" height="30"></a> -->
 
@@ -21,8 +24,7 @@
 <!-- <a href="https://leetcode.com/aman-codes/" title="Leetcode">
 <img src="https://img.shields.io/badge/-LeetCode-black?style=flat-square&logo=leetcode" alt="leetcode"  width="100" height="30"></a> -->
 
-<a href="https://www.facebook.com/profile.php?id=100006860341956" title="FaceBook">
-<img src="https://img.shields.io/badge/-Facebook-black?style=flat-square&logo=facebook" alt="FaceBook"  width="100" height="30"></a>
+
 
 
 <p>
@@ -34,10 +36,10 @@ Hi 🙋🏻‍♂️, I am Aman Agrawal, a Roboteer 🚀 from India, currently, 
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m a Embedded Engineer
-<!-- - 📚 I’m actively contributing to open-source projects -->
 - ⚡️ Available for Freelance projects/internship opportunities
 - 📫 How to reach me: amanagrawal5510@gmail.com
 - 📝[Resume](https://drive.google.com/file/d/1NlRq7yF1fyYnubDTl6KYksxc3JZuNK4i/view?usp=sharing)
+<!-- - 📚 I’m actively contributing to open-source projects -->
 <!-- -->
 ---
 
