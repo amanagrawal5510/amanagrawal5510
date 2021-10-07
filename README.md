@@ -49,16 +49,16 @@ Hi 🙋🏻‍♂️, I am Aman Agrawal, a Roboteer 🚀 from India, currently ,
 ![NodeJs](https://img.shields.io/badge/-NodeJs-303030?style=flat-square&logo=Node.js "NodeJs")
 <!-- ![ReactJs](https://img.shields.io/badge/-ReactJs-black?style=flat-square&logo=react "ReactJs") -->
 <!-- ![Php](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php "PHP") -->
-[Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=Python "Phython")
-[HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white "HTML5")
-[CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3 "CSS3")
-[Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap "Bootstrap")
-[MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb "MongoDB")
+![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=Python "Phython")
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white "HTML5")
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3 "CSS3")
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap "Bootstrap")
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb "MongoDB")
 <!-- ![MySql](https://img.shields.io/badge/-Mysql-F29111?style=flat-square&logo=mysql "MySql") -->
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku "Heroku")
 <!-- ![Amazon Web Services](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws "Amazon Web Services") -->
-[Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git "Git")
-[GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github "GitHub")
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git "Git")
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github "GitHub")
 
 ---
 
