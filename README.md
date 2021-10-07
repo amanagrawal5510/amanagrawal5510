@@ -44,9 +44,9 @@ Hi 🙋🏻‍♂️, I am Aman Agrawal, a Roboteer 🚀 from India, currently ,
 ---
 
 **Languages and Tools:**  
-[C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c "C++")
-[JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript "JavaScript")
-[NodeJs](https://img.shields.io/badge/-NodeJs-303030?style=flat-square&logo=Node.js "NodeJs")
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c "C++")
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript "JavaScript")
+![NodeJs](https://img.shields.io/badge/-NodeJs-303030?style=flat-square&logo=Node.js "NodeJs")
 <!-- ![ReactJs](https://img.shields.io/badge/-ReactJs-black?style=flat-square&logo=react "ReactJs") -->
 <!-- ![Php](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php "PHP") -->
 [Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=Python "Phython")
